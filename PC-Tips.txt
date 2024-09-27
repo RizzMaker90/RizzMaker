@@ -1,0 +1,11 @@
+win + r > mrt 											: malawere scan
+win + r > cmd > ipconfig /flushdns								: clear resolver dns caches
+Device Manager > Scheda di rete > NetworkAdapter > avanzate > velocità & duplex			: max internet velocity
+win > cmd > winget upgrade > y (se richiesto) > winget upgrade --all				: uppgrade all apps
+alt + z > prestazioni > abilita auto regolazione						: stable fps
+win + r > cmd > msconfig > opzioni di avvio > opzioni avanzate > numero di processori > 16	: boost start pc
+ctrl > shift > esc > dettagli > gioco interessato > priorità > alta				: boost game fps
+win > cmd (admn) > chkdsk									: driver problem scan
+
+SOLO SE IL PC CRASHA DURANTE I GIOCHI o BLUE SCREEN
+win > cmd (admn) > sfc /scannow  								: scan e riparazione file di sistema

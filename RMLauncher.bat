@@ -1,3 +1,4 @@
 @echo off
 set "folder=%~dp0"
-start "" "%folder%RizzMakerProgram.exe"
+start /B "" "%folder%RizzMakerProgram.exe"
+exit

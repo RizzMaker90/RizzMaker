@@ -1,4 +1,4 @@
 @echo off
 set "folder=%~dp0"
-start /B "" "%folder%RizzMakerProgram.exe"
+runas /user:Administrator "%folder%RizzMakerProgram.exe"
 exit
